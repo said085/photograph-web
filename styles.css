@@ -31,3 +31,6 @@ nav a {
     margin: 10px;
     font-weight: bold;
 }
+nav a:hover {
+    color: #e1c58a;
+}
