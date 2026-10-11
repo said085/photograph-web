@@ -167,3 +167,51 @@ nav a:hover {
 .bio p {
     margin-bottom: 12px;
 }
+.contact {
+    background-color: #e8e6da;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.contact form {
+    max-width: 500px;
+    margin: 25px auto 0;
+    text-align: left;
+}
+
+.contact label {
+    display: block;
+    margin: 12px 0 5px;
+    font-weight: bold;
+}
+
+.contact input,
+.contact textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #b9b9aa;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+.contact textarea {
+    resize: vertical;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+    outline: 2px solid #d4a84f;
+}
+
+.contact button {
+    width: 100%;
+    margin-top: 15px;
+    padding: 13px;
+    background-color: #24543b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
