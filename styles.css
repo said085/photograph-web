@@ -81,3 +81,23 @@ nav a:hover {
     font-size: 30px;
     margin-bottom: 15px;
 }
+.about p {
+    margin-bottom: 15px;
+}
+
+.about h3 {
+    margin: 25px 0 10px;
+}
+.about ul {
+    padding-left: 25px;
+}
+.about li {
+    margin-bottom: 8px;
+}
+
+/* Gallery section */
+.gallery {
+    background-color: #e8e6da;
+    padding: 60px 8%;
+    text-align: center;
+}
