@@ -111,3 +111,11 @@ nav a:hover {
     flex-wrap: wrap;
     gap: 25px;
 }
+.photo {
+    background-color: white;
+    width: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transition: transform 0.3s;
+}
