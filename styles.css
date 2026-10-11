@@ -73,3 +73,11 @@ nav a:hover {
     margin: auto;
     padding: 60px 10%;
 }
+.about h2,
+.gallery h2,
+.photographer h2,
+.contact h2 {
+    color: #24543b;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
