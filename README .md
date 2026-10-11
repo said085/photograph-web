@@ -26,3 +26,5 @@ and the beauty of African nature.
 https://Said085.github.io/masai-mara-photography/
 ## Image Credits
 Check the image sources and licensing terms before reuse.
+## Contact Form
+The form uses FormSubmit to send messages to an email address.
