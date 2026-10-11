@@ -22,3 +22,7 @@ and the beauty of African nature.
 3. Make sure index.html and style.css are in the same folder.
 4. Open index.html using Live Server.
 5. Connect to the internet to load the images.
+## Live Website
+https://Said085.github.io/masai-mara-photography/
+## Image Credits
+Check the image sources and licensing terms before reuse.
