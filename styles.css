@@ -95,7 +95,6 @@ nav a:hover {
     margin-bottom: 8px;
 }
 
-/* Gallery section */
 .gallery {
     background-color: #e8e6da;
     padding: 60px 8%;
@@ -217,6 +216,12 @@ nav a:hover {
 }
 .contact button:hover {
     background-color: #183b2b;
+}
+footer {
+    background-color: #183b2b;
+    color: white;
+    text-align: center;
+    padding: 25px;
 }
 footer span {
     color: #e1c58a;
