@@ -215,3 +215,10 @@ nav a:hover {
     font-weight: bold;
     cursor: pointer;
 }
+.contact button:hover {
+    background-color: #183b2b;
+}
+footer span {
+    color: #e1c58a;
+    font-weight: bold;
+}
