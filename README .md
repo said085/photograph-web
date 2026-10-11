@@ -28,3 +28,5 @@ https://Said085.github.io/masai-mara-photography/
 Check the image sources and licensing terms before reuse.
 ## Contact Form
 The form uses FormSubmit to send messages to an email address.
+# License
+Created for educational purposes.
