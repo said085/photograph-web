@@ -101,3 +101,13 @@ nav a:hover {
     padding: 60px 8%;
     text-align: center;
 }
+.gallery > p {
+    margin-bottom: 30px;
+}
+
+.photo-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
